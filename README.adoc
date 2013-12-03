@@ -1,3 +1,6 @@
+---
+categories: [facebook]
+---
 :icons: font
 :source-highlighter: prettify
 :project_id: gs-register-facebook-app
