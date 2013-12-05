@@ -1,5 +1,6 @@
 ---
 categories: [facebook]
+projects: [spring-social-facebook]
 ---
 :icons: font
 :source-highlighter: prettify
