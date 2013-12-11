@@ -1,5 +1,5 @@
 ---
-categories: [facebook]
+tags: [facebook]
 projects: [spring-social-facebook]
 ---
 :icons: font
